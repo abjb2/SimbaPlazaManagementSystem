@@ -29,7 +29,7 @@ if(!isset($_SESSION["admin_username"]))
             <a href="profit.php">Profit</a>
             <br><br><br><br><br><br>
             <hr class="mb-n1" color="gold">
-            <a class="text-center ml-n4" href="">Logout</a>
+            <a class="text-center ml-n4" href="logout.php">Logout</a>
         </div>
 
         <!-- Page content -->
